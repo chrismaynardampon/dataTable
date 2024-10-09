@@ -21,7 +21,7 @@ const SearchBar = ({filterText, setFilterText, minDate, setMinDate, maxDate, set
         pattern="\d{4}-\d{2}-\d{2}"
         value={minDate}
         onChange={(e) => setMinDate(e.target.value)}
-        style={{ marginBottom: '10px' }}
+        style={{ marginBottom: '20px' }}
       />
 
       <label>Max Date: </label>

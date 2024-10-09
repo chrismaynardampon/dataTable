@@ -21,6 +21,11 @@ table, th, td {
   border: 1px solid black;
 }
 
+label {
+  margin-right: 0px;
+  margin-left: 5px;
+}
+
 input {
   padding: 5px;
   margin: 5px 5px;
